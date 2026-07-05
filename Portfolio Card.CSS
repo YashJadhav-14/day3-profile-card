@@ -1,0 +1,14 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #F9A03F;
+    color: #813405;
+}
+
+a{
+    text-decoration:none;
+}
+
+fieldset{
+    border-color: #813405;
+}
